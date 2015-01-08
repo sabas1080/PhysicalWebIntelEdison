@@ -1,0 +1,39 @@
+{
+  "name": "Sabas",
+  "version": "0.0.1",
+  "description": "Physical Web con Intel Edison",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.10.1",
+    "colors": "^1.0.3",
+    "express": "^4.10.7",
+    "mraa": "^0.5.4-46-g74d172c",
+    "ngrok": "^0.1.98",
+    "request": "^2.51.0",
+    "uri-beacon": "^0.2.1",
+    "noble": "^0.3.6",
+    "bleno": "^0.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    },
+  "author": "Andres Sabas",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sabas1080/PhysicalWebIntelEdison"
+  },
+  "keywords": [
+    "Intel",
+    "Edison",
+    "physical",
+    "web",
+    "ibeacon"
+  ],
+  "bugs": {
+    "url": "https://github.com/sabas1080/PhysicalWebIntelEdison/issues"
+  },
+  "homepage": "https://github.com/sabas1080/PhysicalWebIntelEdison"
+}
+
